@@ -1,0 +1,37 @@
+# Dependency directories
+node_modules/
+vendor/
+
+# Build artifacts
+build/
+dist/
+*.log
+
+# IDE/editor specific files
+.vscode/
+.idea/
+.project
+.classpath
+.DS_Store
+
+# Environment/config files
+.env
+.env.local
+
+# Compiled/generated files
+*.min.js
+*.min.css
+*.map
+
+# User-specific files
+*.bak
+*.old
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+
+# Miscellaneous
+.log
+.tmp
+.cache
